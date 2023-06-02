@@ -24,13 +24,12 @@ python -m venv c:\path\to\myenv
 Project_root_dir
 │
 |
-|
-|__ application
-|    |
-|    |__ templates __ __ __ __ __ 
-|    |__ __init__.py             |__ Login.html __ Register.html
-|    |__ routes.py               |__ Layout.html(base.html) __ Add_todos.html __ view_todos.html
-|    |__ forms.py                |__ home.html
+|__ applicati
+|   
+|    |__ templates 
+|    |__ __init__.py 
+|    |__ routes.py   
+|    |__ forms.py    
 |                                
 |
 |__ env
