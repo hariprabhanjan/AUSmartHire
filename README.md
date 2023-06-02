@@ -3,13 +3,11 @@
 
 1)create virtual environment inside of it(main project folder)
     
-      #windows users
-python -m venv c:\path\to\myenv
+      #windows users = python -m venv c:\path\to\myenv
 
 2)Activate the virtual environment
       
-      #Windows users
-\venv\Scripts\activate.bat
+      #Windows users = \venv\Scripts\activate.bat
 
 3)Install all project dependencies
 
@@ -21,10 +19,10 @@ python -m venv c:\path\to\myenv
 
 5)Project Structure
 -----------------------------------------------------------------------------------------------------------------------------------------
-Project_root_dir
+#Project_root_dir
 │
 |
-|__ applicati
+|__ application
 |   
 |    |__ templates 
 |    |__ __init__.py 
