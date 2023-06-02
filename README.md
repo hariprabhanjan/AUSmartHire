@@ -20,6 +20,8 @@ python -m venv c:\path\to\myenv
 
 
 5)Project Structure
+
+pip
 project_root_dir
 │
 |
@@ -40,3 +42,4 @@ project_root_dir
 |
 |
 |__ run.py
+pip
